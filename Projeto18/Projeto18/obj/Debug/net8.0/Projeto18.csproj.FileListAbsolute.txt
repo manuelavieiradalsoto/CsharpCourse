@@ -1,0 +1,14 @@
+C:\A_PROJETOS_CS\Projeto18\Projeto18\bin\Debug\net8.0\Projeto18.exe
+C:\A_PROJETOS_CS\Projeto18\Projeto18\bin\Debug\net8.0\Projeto18.deps.json
+C:\A_PROJETOS_CS\Projeto18\Projeto18\bin\Debug\net8.0\Projeto18.runtimeconfig.json
+C:\A_PROJETOS_CS\Projeto18\Projeto18\bin\Debug\net8.0\Projeto18.dll
+C:\A_PROJETOS_CS\Projeto18\Projeto18\bin\Debug\net8.0\Projeto18.pdb
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.AssemblyInfoInputs.cache
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.AssemblyInfo.cs
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.csproj.CoreCompileInputs.cache
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.dll
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\refint\Projeto18.dll
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.pdb
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\Projeto18.genruntimeconfig.cache
+C:\A_PROJETOS_CS\Projeto18\Projeto18\obj\Debug\net8.0\ref\Projeto18.dll

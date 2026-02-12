@@ -1,0 +1,14 @@
+C:\A_PROJETOS_CS\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.exe
+C:\A_PROJETOS_CS\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.deps.json
+C:\A_PROJETOS_CS\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.runtimeconfig.json
+C:\A_PROJETOS_CS\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.dll
+C:\A_PROJETOS_CS\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.pdb
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.AssemblyInfoInputs.cache
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.AssemblyInfo.cs
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.csproj.CoreCompileInputs.cache
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.dll
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\refint\Projeto31.dll
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.pdb
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.genruntimeconfig.cache
+C:\A_PROJETOS_CS\Projeto31\Projeto31\obj\Debug\net8.0\ref\Projeto31.dll

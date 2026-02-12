@@ -1,0 +1,14 @@
+C:\A_PROJETOS_CS\Projeto19\Projeto19\bin\Debug\net8.0\Projeto19.exe
+C:\A_PROJETOS_CS\Projeto19\Projeto19\bin\Debug\net8.0\Projeto19.deps.json
+C:\A_PROJETOS_CS\Projeto19\Projeto19\bin\Debug\net8.0\Projeto19.runtimeconfig.json
+C:\A_PROJETOS_CS\Projeto19\Projeto19\bin\Debug\net8.0\Projeto19.dll
+C:\A_PROJETOS_CS\Projeto19\Projeto19\bin\Debug\net8.0\Projeto19.pdb
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.AssemblyInfoInputs.cache
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.AssemblyInfo.cs
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.csproj.CoreCompileInputs.cache
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.dll
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\refint\Projeto19.dll
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.pdb
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\Projeto19.genruntimeconfig.cache
+C:\A_PROJETOS_CS\Projeto19\Projeto19\obj\Debug\net8.0\ref\Projeto19.dll
