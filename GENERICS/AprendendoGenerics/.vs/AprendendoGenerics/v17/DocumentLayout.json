@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A_PROJETOS_CS\\GENERICS\\AprendendoGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC41847-0F15-489B-9A5C-4E7CB5D25843}|AprendendoGenerics\\AprendendoGenerics.csproj|c:\\a_projetos_cs\\generics\\aprendendogenerics\\aprendendogenerics\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC41847-0F15-489B-9A5C-4E7CB5D25843}|AprendendoGenerics\\AprendendoGenerics.csproj|solutionrelative:aprendendogenerics\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC41847-0F15-489B-9A5C-4E7CB5D25843}|AprendendoGenerics\\AprendendoGenerics.csproj|c:\\a_projetos_cs\\generics\\aprendendogenerics\\aprendendogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC41847-0F15-489B-9A5C-4E7CB5D25843}|AprendendoGenerics\\AprendendoGenerics.csproj|solutionrelative:aprendendogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\GENERICS\\AprendendoGenerics\\AprendendoGenerics\\PrintService.cs",
+              "RelativeDocumentMoniker": "AprendendoGenerics\\PrintService.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\GENERICS\\AprendendoGenerics\\AprendendoGenerics\\PrintService.cs",
+              "RelativeToolTip": "AprendendoGenerics\\PrintService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:46:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\GENERICS\\AprendendoGenerics\\AprendendoGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "AprendendoGenerics\\Program.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\GENERICS\\AprendendoGenerics\\AprendendoGenerics\\Program.cs",
+              "RelativeToolTip": "AprendendoGenerics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:27:28.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A_PROJETOS_CS\\MANIPULACAO ARQUIVOS\\EntendendoFileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52C0862-2957-4A52-BD5B-EAD896B9B599}|EntendendoFileStream\\EntendendoFileStream.csproj|c:\\a_projetos_cs\\manipulacao arquivos\\entendendofilestream\\entendendofilestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52C0862-2957-4A52-BD5B-EAD896B9B599}|EntendendoFileStream\\EntendendoFileStream.csproj|solutionrelative:entendendofilestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\MANIPULACAO ARQUIVOS\\EntendendoFileStream\\EntendendoFileStream\\Program.cs",
+              "RelativeDocumentMoniker": "EntendendoFileStream\\Program.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\MANIPULACAO ARQUIVOS\\EntendendoFileStream\\EntendendoFileStream\\Program.cs",
+              "RelativeToolTip": "EntendendoFileStream\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:19:06.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
