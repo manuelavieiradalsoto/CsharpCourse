@@ -1,0 +1,14 @@
+C:\A_PROJETOS_CS\Projeto35\Projeto35\bin\Debug\net8.0\Projeto35.exe
+C:\A_PROJETOS_CS\Projeto35\Projeto35\bin\Debug\net8.0\Projeto35.deps.json
+C:\A_PROJETOS_CS\Projeto35\Projeto35\bin\Debug\net8.0\Projeto35.runtimeconfig.json
+C:\A_PROJETOS_CS\Projeto35\Projeto35\bin\Debug\net8.0\Projeto35.dll
+C:\A_PROJETOS_CS\Projeto35\Projeto35\bin\Debug\net8.0\Projeto35.pdb
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.AssemblyInfoInputs.cache
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.AssemblyInfo.cs
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.csproj.CoreCompileInputs.cache
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.dll
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\refint\Projeto35.dll
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.pdb
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\Projeto35.genruntimeconfig.cache
+C:\A_PROJETOS_CS\Projeto35\Projeto35\obj\Debug\net8.0\ref\Projeto35.dll

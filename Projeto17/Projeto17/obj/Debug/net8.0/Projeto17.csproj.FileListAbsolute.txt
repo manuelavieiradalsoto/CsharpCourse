@@ -1,0 +1,14 @@
+C:\A_PROJETOS_CS\Projeto17\Projeto17\bin\Debug\net8.0\Projeto17.exe
+C:\A_PROJETOS_CS\Projeto17\Projeto17\bin\Debug\net8.0\Projeto17.deps.json
+C:\A_PROJETOS_CS\Projeto17\Projeto17\bin\Debug\net8.0\Projeto17.runtimeconfig.json
+C:\A_PROJETOS_CS\Projeto17\Projeto17\bin\Debug\net8.0\Projeto17.dll
+C:\A_PROJETOS_CS\Projeto17\Projeto17\bin\Debug\net8.0\Projeto17.pdb
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.AssemblyInfoInputs.cache
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.AssemblyInfo.cs
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.csproj.CoreCompileInputs.cache
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.dll
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\refint\Projeto17.dll
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.pdb
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\Projeto17.genruntimeconfig.cache
+C:\A_PROJETOS_CS\Projeto17\Projeto17\obj\Debug\net8.0\ref\Projeto17.dll

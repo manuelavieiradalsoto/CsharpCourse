@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A_PROJETOS_CS\\Projeto32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|c:\\a_projetos_cs\\projeto32\\projeto32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|solutionrelative:projeto32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|c:\\a_projetos_cs\\projeto32\\projeto32\\service\\areacalculavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|solutionrelative:projeto32\\service\\areacalculavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|c:\\a_projetos_cs\\projeto32\\projeto32\\entities\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|solutionrelative:projeto32\\entities\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|c:\\a_projetos_cs\\projeto32\\projeto32\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|solutionrelative:projeto32\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|c:\\a_projetos_cs\\projeto32\\projeto32\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905836BF-E716-421B-8B1E-4527DA76CA25}|Projeto32\\Projeto32.csproj|solutionrelative:projeto32\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Circulo.cs",
+              "RelativeDocumentMoniker": "Projeto32\\Entities\\Circulo.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Circulo.cs",
+              "RelativeToolTip": "Projeto32\\Entities\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:41:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Projeto32\\Entities\\Retangulo.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Retangulo.cs",
+              "RelativeToolTip": "Projeto32\\Entities\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:41:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Projeto32\\Entities\\Quadrado.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Entities\\Quadrado.cs",
+              "RelativeToolTip": "Projeto32\\Entities\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:40:37.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaCalculavel.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Service\\AreaCalculavel.cs",
+              "RelativeDocumentMoniker": "Projeto32\\Service\\AreaCalculavel.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Service\\AreaCalculavel.cs",
+              "RelativeToolTip": "Projeto32\\Service\\AreaCalculavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:39:32.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto32\\Program.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto32\\Projeto32\\Program.cs",
+              "RelativeToolTip": "Projeto32\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:38:49.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

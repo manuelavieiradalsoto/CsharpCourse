@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A_PROJETOS_CS\\Projeto18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|c:\\a_projetos_cs\\projeto18\\projeto18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|solutionrelative:projeto18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|c:\\a_projetos_cs\\projeto18\\projeto18\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|solutionrelative:projeto18\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|c:\\a_projetos_cs\\projeto18\\projeto18\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79196CE-0A4D-465E-8E44-A174E01DCA23}|Projeto18\\Projeto18.csproj|solutionrelative:projeto18\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Projeto18\\entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Projeto18\\entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:09:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\entities\\Order.cs",
+              "RelativeDocumentMoniker": "Projeto18\\entities\\Order.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\entities\\Order.cs",
+              "RelativeToolTip": "Projeto18\\entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:08:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto18\\Program.cs",
+              "ToolTip": "C:\\A_PROJETOS_CS\\Projeto18\\Projeto18\\Program.cs*",
+              "RelativeToolTip": "Projeto18\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:34:05.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
