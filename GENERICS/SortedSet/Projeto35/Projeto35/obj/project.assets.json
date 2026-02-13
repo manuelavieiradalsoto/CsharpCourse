@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\A_PROJETOS_CS\\Projeto35\\Projeto35\\Projeto35.csproj",
+      "projectUniqueName": "C:\\A_PROJETOS_CS\\GITHUB_manu\\CsharpCourse\\GENERICS\\SortedSet\\Projeto35\\Projeto35\\Projeto35.csproj",
       "projectName": "Projeto35",
-      "projectPath": "C:\\A_PROJETOS_CS\\Projeto35\\Projeto35\\Projeto35.csproj",
+      "projectPath": "C:\\A_PROJETOS_CS\\GITHUB_manu\\CsharpCourse\\GENERICS\\SortedSet\\Projeto35\\Projeto35\\Projeto35.csproj",
       "packagesPath": "C:\\Users\\manuela.dalsoto\\.nuget\\packages\\",
-      "outputPath": "C:\\A_PROJETOS_CS\\Projeto35\\Projeto35\\obj\\",
+      "outputPath": "C:\\A_PROJETOS_CS\\GITHUB_manu\\CsharpCourse\\GENERICS\\SortedSet\\Projeto35\\Projeto35\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
