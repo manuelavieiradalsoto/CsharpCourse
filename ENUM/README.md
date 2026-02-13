@@ -1,4 +1,6 @@
 # Enum
+<h1>Projeto18:</h1>
+<h3>Entendendo ENUMS</h3>
 <h1>Projeto19:</h1>
 
 <h3>Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar 
